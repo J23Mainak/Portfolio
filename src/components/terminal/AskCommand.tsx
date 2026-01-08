@@ -79,7 +79,7 @@ export const AskCommand = ({ onResponseReceived, prompt }: AskCommandProps) => {
               
               [CORE DATA]
               - Current Status: B.Tech Computer Science student at BIT Mesra (2022-2026)
-              - CGPA: 9.12
+              - CGPA: 9.16
               - Location: Ranchi, India
               
               [TECHNICAL MATRIX]

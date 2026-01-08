@@ -72,7 +72,7 @@ export const createCommandsList = (
 
         Key context you may use:
         - Name: Mainak Jana
-        - Education: B.Tech (Computer Science & Engineering) at Birla Institute of Technology, Mesra (CGPA: 9.12)
+        - Education: B.Tech (Computer Science & Engineering) at Birla Institute of Technology, Mesra (CGPA: 9.16)
         - Research: AttentioNet — a channel-attention CNN for retinal disease detection (high parameter efficiency and strong APTOS performance)
         - Projects: EyeCare (end-to-end AI platform with RAG chatbot, FastAPI backend, Qdrant for vector search) and InterviewAI (Next.js/TypeScript interview simulator using Google Gemini API and Clerk auth)
         - Roles: Undergraduate Researcher (BIT Mesra), Team Lead at e-Yantra robotics club, experience building full-stack products and ML systems

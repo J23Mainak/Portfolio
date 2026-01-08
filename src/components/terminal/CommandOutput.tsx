@@ -105,7 +105,7 @@ export const ExperienceOutput = (): JSX.Element => (
             "Lead robotics initiatives under the e-Yantra (IIT Bombay) ecosystem, mentoring peers on embedded systems and algorithms.",
             "Participated in multiple national-level robotics competitions, focusing on rapid prototyping and problem solving.",
             "Coordinated team efforts across hardware, software, and control systems to deliver end-to-end robotics solutions.",
-            "Balanced club responsibilities with a strong academic record, maintaining a 9.12 CGPA in Computer Science and Engineering.",
+            "Balanced club responsibilities with a strong academic record, maintaining a 9.16 CGPA in Computer Science and Engineering.",
           ],
         },
       ].map((job, index) => (
@@ -276,7 +276,7 @@ export const AchievementsOutput = (): JSX.Element => (
         <p className="text-sm mt-1">
           Recognized as a top performer in the 1st year across all branches,
           leading to a branch change to Computer Science and Engineering, while
-          maintaining a CGPA of 9.12.
+          maintaining a CGPA of 9.16.
         </p>
         <a
           href="#"
