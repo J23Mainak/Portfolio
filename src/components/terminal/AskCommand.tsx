@@ -99,7 +99,7 @@ export const AskCommand = ({ onResponseReceived, prompt }: AskCommandProps) => {
               - Top 100 in Amazon ML Challenge 2025
               - IET Scholarship Hackathon Finalist (among 75,000+ participants)
               - Flipkart GRID 7.0 Semi-Finalist (among 200,000+ participants)
-              - CodeChef Rating: 2137 | Codeforces Rating: 1759 (Expert)
+              - CodeChef Rating: 2137 (5 star) | Codeforces Rating: 1759 (Expert)
               - Team Lead at e-Yantra (IIT Bombay) club
               
               [EXTRACURRICULAR]

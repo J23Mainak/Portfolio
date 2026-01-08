@@ -100,12 +100,10 @@ export const ExperienceOutput = (): JSX.Element => (
         {
           title: "Team Lead, e-Yantra Robotics Club",
           company: "Birla Institute of Technology, Mesra",
-          period: "2023 - Present",
+          period: "2023 - 2025",
           achievements: [
             "Lead robotics initiatives under the e-Yantra (IIT Bombay) ecosystem, mentoring peers on embedded systems and algorithms.",
-            "Participated in multiple national-level robotics competitions, focusing on rapid prototyping and problem solving.",
-            "Coordinated team efforts across hardware, software, and control systems to deliver end-to-end robotics solutions.",
-            "Balanced club responsibilities with a strong academic record, maintaining a 9.16 CGPA in Computer Science and Engineering.",
+            "Participated in multiple national-level robotics competitions, focusing on rapid prototyping and problem solving."
           ],
         },
       ].map((job, index) => (
@@ -221,6 +219,7 @@ export const SkillsOutput = (): JSX.Element => (
           <li>Python</li>
           <li>Java</li>
           <li>Bash</li>
+          <li>HTML & CSS</li>
           <li>JavaScript / TypeScript</li>
         </ul>
       </div>
@@ -228,12 +227,12 @@ export const SkillsOutput = (): JSX.Element => (
       <div className="space-y-2">
         <h3 className="text-terminal-pink font-bold">Frameworks & Libraries</h3>
         <ul className="list-disc list-inside space-y-1 pl-2">
-          <li>ReactJS & Next.js</li>
           <li>Tailwind CSS</li>
-          <li>Node.js & ExpressJS</li>
           <li>Redux</li>
+          <li>ReactJS & Next.js</li>
+          <li>Node.js & ExpressJS</li>
           <li>TensorFlow & PyTorch</li>
-          <li>FastAPI</li>
+          <li>RestAPI & FastAPI</li>
           <li>LangChain & LangGraph</li>
         </ul>
       </div>
@@ -241,10 +240,12 @@ export const SkillsOutput = (): JSX.Element => (
       <div className="space-y-2">
         <h3 className="text-terminal-pink font-bold">Tools & Platforms</h3>
         <ul className="list-disc list-inside space-y-1 pl-2">
+          <li>VSCode</li>
           <li>Git & GitHub</li>
-          <li>Qdrant DB</li>
-          <li>Google Gemini API</li>
-          <li>Clerk (Auth)</li>
+          <li>Kaggle</li>
+          <li>Google Colab</li>
+          <li>Hugging Face</li>
+          <li>Postman</li>
           <li>Linux & Bash tooling</li>
         </ul>
       </div>
@@ -252,8 +253,10 @@ export const SkillsOutput = (): JSX.Element => (
       <div className="space-y-2">
         <h3 className="text-terminal-pink font-bold">Databases</h3>
         <ul className="list-disc list-inside space-y-1 pl-2">
-          <li>MongoDB</li>
           <li>MySQL</li>
+          <li>MongoDB</li>
+          <li>NeonDB</li>
+          <li>PostgreSQL</li>
           <li>Qdrant (Vector DB)</li>
         </ul>
       </div>
@@ -308,7 +311,7 @@ export const AchievementsOutput = (): JSX.Element => (
         </p>
         <p className="text-sm mt-1">
           Actively engage in competitive programming with a CodeChef rating of
-          2137 and a Codeforces rating of 1759 (Expert). Serve as Team Lead at
+          2137 (5 star) and a Codeforces rating of 1759 (Expert). Serve as Team Lead at
           the e-Yantra (IIT Bombay) club and participate in multiple robotics
           competitions, while also competing in online typing contests with an
           average speed of 90 WPM.
