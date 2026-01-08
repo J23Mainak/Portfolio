@@ -50,7 +50,7 @@ export const AboutOutput = (): JSX.Element => (
           My work spans research on computer vision tasks for medical diagnosis,
           building full-stack products, and doing
           competitive programming on Codeforces and CodeChef. When I’m not
-          experimenting with new architectures or RAG pipelines, you’ll likely
+          experimenting with new architectures or LLM/RAG pipelines, you’ll likely
           find me solving algorithmic problems or refining one of my side
           projects.
         </p>
