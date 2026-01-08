@@ -41,14 +41,14 @@ export const AboutOutput = (): JSX.Element => (
 
       <div className="space-y-3 flex-1">
         <p className="text-terminal-foreground">
-          👋Hey there! I'm <span className="font-bold">Mainak</span>, a
+          👋 Hey there! I'm <span className="font-bold">Mainak</span>, a
           Computer Science and Engineering undergraduate at Birla Institute of
           Technology, Mesra (CGPA 9.16). I enjoy building end-to-end systems
           that combine deep learning, LLMs, and scalable web applications.
         </p>
         <p className="text-terminal-foreground">
           My work spans research on computer vision tasks for medical diagnosis,
-          building full-stack products like EyeCare & InterviewAI, and doing
+          building full-stack products, and doing
           competitive programming on Codeforces and CodeChef. When I’m not
           experimenting with new architectures or RAG pipelines, you’ll likely
           find me solving algorithmic problems or refining one of my side
